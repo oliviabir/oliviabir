@@ -1,5 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi I'm Olivia!</h1>
 
+- 📫 How to reach me: [LinkedIn]([(https://www.linkedin.com/in/olivia-bir-74b16b7b/)])
 <!--
 **oliviabir/oliviabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,4 +31,7 @@ Here are some ideas to get you started:
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&amp;logo=pug&amp;logoColor=A86454)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white)
 ![Visual Studio code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&amp;logo=json&amp;logoColor=white)
+
+
 
